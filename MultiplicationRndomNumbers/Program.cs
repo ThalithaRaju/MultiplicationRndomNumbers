@@ -25,10 +25,13 @@ namespace MultiplicationRndomNumbers
         }
         static void Main(string[] args)
         {
+            Console.WriteLine("Table");
+            Console.WriteLine("-----------");
             Console.WriteLine("Enter Multiplier");
             n = Convert.ToInt32(Console.ReadLine());
             Multiplication();
             Console.ReadKey();
         }
+        
     }
 }
