@@ -1,0 +1,7 @@
+C:\Users\Thalitha\source\repos\MultiplicationRndomNumbers\MultiplicationRndomNumbers\bin\Debug\MultiplicationRndomNumbers.exe.config
+C:\Users\Thalitha\source\repos\MultiplicationRndomNumbers\MultiplicationRndomNumbers\bin\Debug\MultiplicationRndomNumbers.exe
+C:\Users\Thalitha\source\repos\MultiplicationRndomNumbers\MultiplicationRndomNumbers\bin\Debug\MultiplicationRndomNumbers.pdb
+C:\Users\Thalitha\source\repos\MultiplicationRndomNumbers\MultiplicationRndomNumbers\obj\Debug\MultiplicationRndomNumbers.csprojAssemblyReference.cache
+C:\Users\Thalitha\source\repos\MultiplicationRndomNumbers\MultiplicationRndomNumbers\obj\Debug\MultiplicationRndomNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Thalitha\source\repos\MultiplicationRndomNumbers\MultiplicationRndomNumbers\obj\Debug\MultiplicationRndomNumbers.exe
+C:\Users\Thalitha\source\repos\MultiplicationRndomNumbers\MultiplicationRndomNumbers\obj\Debug\MultiplicationRndomNumbers.pdb
